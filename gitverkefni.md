@@ -17,3 +17,7 @@
 > 1. Version control forrit er forrit sem heldur í marga fasa af skrá, og getur haldið mörgum öðruvísi tegundum af sömu skránni.
 #### 5.
 > 1. Helstu kostir við að nota git eru branches og samvinna, maður getur hafið marga að vinna á sömu greininni í einu og hafið margar greinar og þú getur farið aftur í tíman ef þú geir  villu og sótt eldri útgáfu.
+#### 6.
+> 1. Eins oft og hægt er.
+#### 7.
+> 1. Working directory er staðurinn þar sem þú ert að vinna og býrð til og editar skrár. Og staging area er hvert skrár fara svo til þess að vera fínpússaðar, svo eftir staging area þá á skráin að vera tilbúin.
