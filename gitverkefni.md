@@ -13,3 +13,5 @@
 > 2. Git checkout leyfir þér að ferðast á milli greina.
 > 3. Git branch leyfir þér að búa til grein, breyta þeim eyða þeim og allt svoleiðis.
 > 4. Git log, checkout og branch virka þannig saman að branch býr til hluti, breytir og eyðir checkout ferðast á milli hluta og log sýnir breytingar.
+#### 4.
+> 1. Version control forrit er forrit sem heldur í marga fasa af skrá, og getur haldið mörgum öðruvísi tegundum af sömu skránni.
