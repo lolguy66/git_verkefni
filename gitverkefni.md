@@ -8,3 +8,8 @@
 > 1. Git clone afritar git möppu frá netinu.
 > 2. Git status sýnir hvað þú ert ennþá að vinna á og ert ekki búinn að skila inn á git.
 > 3. Git diff sýnir muninn á hlutum, það er hægt að bera saman næstum því allt.
+#### 3.
+> 1. Git log sýnir allar breytingar.
+> 2. Git checkout leyfir þér að ferðast á milli greina.
+> 3. Git branch leyfir þér að búa til grein, breyta þeim eyða þeim og allt svoleiðis.
+> 4. Git log, checkout og branch virka þannig saman að branch býr til hluti, breytir og eyðir checkout ferðast á milli hluta og log sýnir breytingar.
