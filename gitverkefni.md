@@ -15,3 +15,5 @@
 > 4. Git log, checkout og branch virka þannig saman að branch býr til hluti, breytir og eyðir checkout ferðast á milli hluta og log sýnir breytingar.
 #### 4.
 > 1. Version control forrit er forrit sem heldur í marga fasa af skrá, og getur haldið mörgum öðruvísi tegundum af sömu skránni.
+#### 5.
+> 1. Helstu kostir við að nota git eru branches og samvinna, maður getur hafið marga að vinna á sömu greininni í einu og hafið margar greinar og þú getur farið aftur í tíman ef þú geir  villu og sótt eldri útgáfu.
